@@ -1,0 +1,15 @@
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\bin\Debug\2004193_Alexander_CountryFlags22.exe.config
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\bin\Debug\2004193_Alexander_CountryFlags22.exe
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\bin\Debug\2004193_Alexander_CountryFlags22.pdb
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.csprojResolveAssemblyReference.cache
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\obj\Debug\_2004193_Alexander_CountryFlags22.Form1.resources
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\obj\Debug\_2004193_Alexander_CountryFlags22.Properties.Resources.resources
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.csproj.GenerateResource.Cache
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.exe
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.pdb
+H:\Documents\P4_C#\2004193_Alexander_Unit2\2004193_Alexander_CountryFlags22\2004193_Alexander_CountryFlags22\bin\Debug\2004193_Alexander_CountryFlags22.exe.config
+H:\Documents\P4_C#\2004193_Alexander_Unit2\2004193_Alexander_CountryFlags22\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.exe
+H:\Documents\P4_C#\2004193_Alexander_Unit2\2004193_Alexander_CountryFlags22\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.pdb
+H:\Documents\Computer Science C#\2004193_Alexander_Unit2\2004193_Alexander_CountryFlags22\2004193_Alexander_CountryFlags22\bin\Debug\2004193_Alexander_CountryFlags22.exe.config
+H:\Documents\Computer Science C#\2004193_Alexander_Unit2\2004193_Alexander_CountryFlags22\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.exe
+H:\Documents\Computer Science C#\2004193_Alexander_Unit2\2004193_Alexander_CountryFlags22\2004193_Alexander_CountryFlags22\obj\Debug\2004193_Alexander_CountryFlags22.pdb

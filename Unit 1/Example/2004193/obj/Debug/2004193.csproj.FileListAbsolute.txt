@@ -1,0 +1,13 @@
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193\bin\Debug\2004193.exe.config
+H:\Documents\P4_C#\2004193_Alexander\2004193\bin\Debug\2004193.exe.config
+H:\Documents\P4_C#\2004193_Alexander\2004193\bin\Debug\2004193.exe
+H:\Documents\P4_C#\2004193_Alexander\2004193\bin\Debug\2004193.pdb
+H:\Documents\P4_C#\2004193_Alexander\2004193\obj\Debug\2004193.csprojResolveAssemblyReference.cache
+H:\Documents\P4_C#\2004193_Alexander\2004193\obj\Debug\_2004193.Properties.Resources.resources
+H:\Documents\P4_C#\2004193_Alexander\2004193\obj\Debug\2004193.csproj.GenerateResource.Cache
+H:\Documents\P4_C#\2004193_Alexander\2004193\obj\Debug\2004193.exe
+H:\Documents\P4_C#\2004193_Alexander\2004193\obj\Debug\2004193.pdb
+H:\Documents\P4_C#\2004193_Alexander\2004193\obj\Debug\_2004193.Form1.resources
+H:\Documents\P4_C#\2004193_Alexander_toastisgood\2004193\bin\Debug\2004193.exe.config
+H:\Documents\P4_C#\2004193_Alexander_toastisgood\2004193\obj\Debug\2004193.exe
+H:\Documents\P4_C#\2004193_Alexander_toastisgood\2004193\obj\Debug\2004193.pdb

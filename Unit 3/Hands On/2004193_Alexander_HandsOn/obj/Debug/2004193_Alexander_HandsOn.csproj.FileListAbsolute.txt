@@ -1,0 +1,13 @@
+C:\Users\2004193\AppData\Local\Temporary Projects\2004193_Alexander_HandsOn\bin\Debug\2004193_Alexander_HandsOn.exe.config
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\bin\Debug\2004193_Alexander_HandsOn.exe.config
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\obj\Debug\2004193_Alexander_HandsOn.csprojResolveAssemblyReference.cache
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\obj\Debug\_2004193_Alexander_HandsOn.Form1.resources
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\obj\Debug\_2004193_Alexander_HandsOn.Properties.Resources.resources
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\obj\Debug\2004193_Alexander_HandsOn.csproj.GenerateResource.Cache
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\bin\Debug\2004193_Alexander_HandsOn.exe
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\bin\Debug\2004193_Alexander_HandsOn.pdb
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\obj\Debug\2004193_Alexander_HandsOn.exe
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_HandsOn\2004193_Alexander_HandsOn\obj\Debug\2004193_Alexander_HandsOn.pdb
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_Unit3HandsOn\2004193_Alexander_HandsOn\bin\Debug\2004193_Alexander_HandsOn.exe.config
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_Unit3HandsOn\2004193_Alexander_HandsOn\obj\Debug\2004193_Alexander_HandsOn.exe
+H:\Documents\Computer Science C#\2004193_Alexander_Unit3\2004193_Alexander_Unit3HandsOn\2004193_Alexander_HandsOn\obj\Debug\2004193_Alexander_HandsOn.pdb
